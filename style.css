@@ -1,9 +1,9 @@
 body {
     font-family: sans-serif;
     background: 
-    url(/uploads/2021/01/fish2_0_1610653588.svg) 50% 40%,
-    url(/uploads/2021/01/fish1_0_1610653588.svg)  70% 90%,
-    url(/uploads/2021/01/coral_0_1610653588.svg) 90% 70%;
+    url(https://learn.algoritmika.org/uploads/2021/01/coral_0_1610653588.svg) 50% 40%,
+    url(https://learn.algoritmika.org/uploads/2021/01/fish2_0_1610653588.svg)  70% 90%,
+    url(https://learn.algoritmika.org/uploads/2021/01/fish1_0_1610653588.svg) 90% 70%;
 color: rgb(248, 240, 240);
    
 }
